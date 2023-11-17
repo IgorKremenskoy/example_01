@@ -6,6 +6,7 @@ public class Main {
         System.out.println("orange");
         int x =10;
         System.out.println(x);
+        System.out.println("chao");
 
     }
 }
