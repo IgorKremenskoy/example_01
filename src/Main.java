@@ -7,6 +7,7 @@ public class Main {
         int x =10;
         System.out.println(x);
         System.out.println("chao");
+        System.out.println("!");
 
     }
 }
