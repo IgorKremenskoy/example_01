@@ -8,6 +8,7 @@ public class Main {
         System.out.println(x);
         System.out.println("chao");
         System.out.println("!");
+        System.out.println("Hi!");
 
     }
 }
